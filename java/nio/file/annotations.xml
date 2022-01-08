@@ -1,0 +1,5 @@
+<root>
+    <item name='java.nio.file.FileVisitOption'>
+        <annotation name='java.lang.Deprecated' />
+    </item>
+</root>
